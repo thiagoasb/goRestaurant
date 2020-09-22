@@ -13,7 +13,7 @@
  <a href="#-About">About</a> •
  <a href="#-Technologies">Technologies</a> •
  <a href="#-How-to-run">How to run</a> •
- <a href="#-License">License</a> •
+ <a href="#-License">License</a>
 </p>
 
 ## 🍛 About
